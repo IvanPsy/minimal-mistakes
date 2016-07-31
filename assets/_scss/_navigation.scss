@@ -299,6 +299,14 @@
       }
     }
   }
+  .visible-links li.masthead__menu-item--lg,
+  .hidden-links li.masthead__menu-item--lg {
+    display: none;
+
+    @include breakpoint($small) {
+      display: block;
+    }
+  }
 }
 
 
