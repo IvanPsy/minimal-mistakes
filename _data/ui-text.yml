@@ -105,7 +105,7 @@ fr-CH:
 # Another locale
 # --------------
 
-# Italian
+# Italian of Italy: you can keep it for Italian of Switzerland too
 # -----------------
 it: &DEFAULT_IT
   page                  : "Pagina"
