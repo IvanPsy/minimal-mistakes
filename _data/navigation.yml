@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Inizia QUI"
-    url: /_pages/ivan-ferrero-psicologo-online-biografia.md
+    url: /ivan-ferrero-psicologo-online-biografia.md
 
   - title: "Chi sono"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
