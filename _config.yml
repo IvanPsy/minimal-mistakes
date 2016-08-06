@@ -11,6 +11,14 @@ defaults:
       share: true
       related: true
 
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
