@@ -1,7 +1,7 @@
 ---
 title: Uscire dalle emozioni negative: una via possibile?
 description: Rabbia, irascibilità, sconforto, delusione, dolore, rigidità, ossessività, ira, invidia: quante volte proviamo queste emozioni, e tante altre? E dopo averle provate? I sensi di colpa.
-date: 2016-09-27T09:37:51+00:00
+date: 2016-09-27
 author: Dr Ivan Ferrero
 layout: post
 permalink: /risolvere-emozioni-negative/
