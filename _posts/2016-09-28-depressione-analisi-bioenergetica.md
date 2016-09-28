@@ -1,6 +1,11 @@
 ---
-published: false
+title: "Guarire dalla Depressione con l'Analisi Bioenergetica"
+description: "Le cause della Depressione e come l'Analisi Bioenergetica può aiutare a risolvere"
+author: Dr Ivan Ferrero
+permalink: /depressione-analisi-bioenergetica/
+published: true
 ---
+
 # Guarire dalla Depressione con l'Analisi Bioenergetica
 
 L’Organizzazione Mondiale della Sanità riconosce nella depressione una delle malattie più mortali e meno curate.
