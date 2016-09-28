@@ -1,6 +1,11 @@
 ---
-published: false
+title: "Disfunzioni sessuali: riapprorpiarsi del proprio corpo"
+description: "Le disfunzioni sessuali come impotenza e frigidità invadono tutto il nostro Essere. Riappropriarsi del nostro Corpo è il passo fondamentale per riscoprire queste sensazioni a lungo dimenticate"
+author: Dr Ivan Ferrero
+permalink: /disfunzioni-sessuali-analisi-bioenergetica/
+published: true
 ---
+
 #Riappropriarsi del proprio corpo: introduzione alla psicologia delle disfunzioni sessuali
 
 Il problema delle disfunzioni sessuali è un tema di attualità che **si sta imponendo con sempre maggiore forza** nelle nostre vite.
