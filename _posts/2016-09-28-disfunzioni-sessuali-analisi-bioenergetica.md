@@ -6,7 +6,7 @@ permalink: /disfunzioni-sessuali-analisi-bioenergetica/
 published: true
 ---
 
-#Riappropriarsi del proprio corpo: introduzione alla psicologia delle disfunzioni sessuali
+# Riappropriarsi del proprio corpo: introduzione alla psicologia delle disfunzioni sessuali
 
 Il problema delle disfunzioni sessuali è un tema di attualità che **si sta imponendo con sempre maggiore forza** nelle nostre vite.
 
@@ -24,27 +24,27 @@ Consideriamo allora i pensieri comuni sotto un’altra prospettiva: che cosa si 
 
 Vediamo come esempio il concetto di *impotenza* e quello di *frigidità*.
 
-##Impotenza
+## Impotenza
 Questo concetto non interessa solamente l’atto sessuale e va molto oltre.
 
 Alla base troviamo l’idea di potercela (o non potercela) fare, una distinzione tra un uomo che può e **un uomo che non può**.
 
 Questo è confermato dal fatto che un uomo “impotente” spesso avverte un **senso di fallimento**, al contrario l’uomo “potente” avverte un senso di successo.
 
-##Frigidità
+## Frigidità
 Indica freddezza.
 
 La donna “frigida” è considerata fredda, **priva di sentimenti e sensazioni**: anche in questo caso ci troviamo di fronte ad un concetto che va oltre la sfera sessuale.
 
 Termini comunemente utilizzati per definire alcuni problemi della sfera della sessualità in realtà identificano l’intera persona.
 
-##Allontanarsi dai propri sentimenti
+## Allontanarsi dai propri sentimenti
 
 Dietro tutto ciò troviamo le emozioni ed i sentimenti, che insieme alle disfunzioni di tipo organico sono le principali responsabili.
 
 Un uomo che si trova in una situazione per lui molto importante ma che nella quale si sente incapace di agire, tenderà a sentirsi non-potente, e quindi impotente.
 
-##Dalla Psiche al Corpo
+## Dalla Psiche al Corpo
 
 Da questo punto la strada che porta a somatizzare, a fare propria questa impotenza, ad interiorizzarla nel proprio corpo, è molto breve.
 
@@ -56,7 +56,7 @@ A causa di questo trauma la donna ha deciso di non sentire più la sofferenza ch
 
 Tuttavia non è possibile escludere un’emozione in modo selettivo: è un processo molto più generico.
 
-##Dal blocco emotivo selettivo al blocco emotivo generalizzato
+## Dal blocco emotivo selettivo al blocco emotivo generalizzato
 
 Una persona che decide di non provare un’emozione ha apena innescato un processo che la porterà a **non provare le emozioni in generale**.
 
@@ -68,7 +68,7 @@ Resistendo alle sensazioni queste ultime vengono trattenute, bloccate.
 
 Se la resistenza persiste **il blocco si cronicizza**.
 
-##Riappropriarsi dei propri sentimenti: la strada verso la soluzione
+## Riappropriarsi dei propri sentimenti: la strada verso la soluzione
 
 La persona in realtà non ha perso i suoi sentimenti: li ha relegati in qualche angolo del suo essere.
 
