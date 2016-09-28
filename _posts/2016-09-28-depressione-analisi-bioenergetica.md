@@ -37,7 +37,7 @@ La persona allora sperimenta un vuoto psico-energetico, **causa di un collasso d
 
 Tutte le energie della persona convergono verso gli strati più profondi dell’essere, e non sono più a disposizione per poter affrontare i normali compiti della vita quotidiana.
 
-##Le buone intenzioni della Depressione
+## Le buone intenzioni della Depressione
 
 Possiamo notare come la depressione costituisca tutto sommato un tentativo da parte dell’organismo di **economizzare le poche energie rimaste**.
 
