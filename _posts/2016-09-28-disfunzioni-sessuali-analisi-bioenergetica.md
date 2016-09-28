@@ -38,9 +38,13 @@ La donna “frigida” è considerata fredda, **priva di sentimenti e sensazioni
 
 Termini comunemente utilizzati per definire alcuni problemi della sfera della sessualità in realtà identificano l’intera persona.
 
+##Allontanarsi dai propri sentimenti
+
 Dietro tutto ciò troviamo le emozioni ed i sentimenti, che insieme alle disfunzioni di tipo organico sono le principali responsabili.
 
 Un uomo che si trova in una situazione per lui molto importante ma che nella quale si sente incapace di agire, tenderà a sentirsi non-potente, e quindi impotente.
+
+##Dalla Psiche al Corpo
 
 Da questo punto la strada che porta a somatizzare, a fare propria questa impotenza, ad interiorizzarla nel proprio corpo, è molto breve.
 
@@ -52,6 +56,8 @@ A causa di questo trauma la donna ha deciso di non sentire più la sofferenza ch
 
 Tuttavia non è possibile escludere un’emozione in modo selettivo: è un processo molto più generico.
 
+##Dal blocco emotivo selettivo al blocco emotivo generalizzato
+
 Una persona che decide di non provare un’emozione ha apena innescato un processo che la porterà a **non provare le emozioni in generale**.
 
 Inizialmente otterrà ciò che desidera, ma con il perdurare della situazione **la chiusura si espande** invadendo gli altri ambiti della nostra vita.
@@ -61,6 +67,8 @@ Raramente si è consapevoli di questo processo: solitamente ci si accorge di ci�
 Resistendo alle sensazioni queste ultime vengono trattenute, bloccate.
 
 Se la resistenza persiste **il blocco si cronicizza**.
+
+##Riappropriarsi dei propri sentimenti: la strada verso la soluzione
 
 La persona in realtà non ha perso i suoi sentimenti: li ha relegati in qualche angolo del suo essere.
 
