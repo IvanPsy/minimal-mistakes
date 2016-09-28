@@ -5,7 +5,7 @@ author: Dr Ivan Ferrero
 permalink: /risolvere-emozioni-negative/
 published: true
 ---
-#Uscire dalle emozioni negative: una via possibile?
+# Uscire dalle emozioni negative: una via possibile?
 
 Rabbia, irascibilità, sconforto, delusione, dolore, rigidità, ossessività, ira, invidia: quante volte proviamo queste emozioni, e tante altre? E dopo averle provate? I sensi di colpa.
 
@@ -37,7 +37,8 @@ E se questo potesse avvenire **in un ambiente protetto**, in uno spazio opportun
 Se all’interno di questi momenti fosse possibile **sperimentare la forza** che si cela dietro queste emozioni negative, e imparare ad utilizzare questa energia per fini più produttivi?
 
 La strada per arrivare a questi obiettivi passa attraverso delle tappe obbligate.
-##Riconoscere il fatto di essere individui portatori anche di queste emozioni “meno desiderabili” e che possiamo provare queste emozioni al pari di quelle positive.
+## Riconoscere il fatto di essere individui portatori anche di queste emozioni “meno desiderabili”
+e che possiamo provare queste emozioni al pari di quelle positive.
 
 Questo implica il fatto che dentro di noi esista anche una natura oscura, e che quest’ultima sia parte integrante della nostra persona.
 
@@ -76,7 +77,7 @@ Raggiungere l’obiettivo con queste modalità lascia dietro di sè una scia di 
 
 C’è qualcosa che stona in questo processo, non trovate?
 
-##Consideriamo l’altra via: rilassarsi, e lasciare che tutto scorra.
+## Consideriamo l’altra via: rilassarsi, e lasciare che tutto scorra.
 
 In questo caso la soluzione non è quella di attaccare il nodo, di considerarlo come un nemico, bensì di concepirlo come qualcosa che per un certo periodo ha fatto parte di noi, che noi stessi abbiamo creato e che per tutto questo tempo ha assolto alla funzione che gli abbiamo assegnato.
 
