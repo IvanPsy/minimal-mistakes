@@ -16,13 +16,13 @@ Spesso dietro gli atti distruttivi di una persona si vede lo spettro della depre
 
 Per capire meglio il fenomeno sfatiamo alcuni miti alla luce di come l’Analisi Bioenergetica concepisce il fenomeno in questione.
 
-##La depressione non è la causa, ma l’effetto:
+## La depressione non è la causa, ma l’effetto:
 la depressione quindi è un effetto esteriore di qualcosa che **giace più in profondità**.
 
-##La depressione è la risultante di una serie di fattori
+## La depressione è la risultante di una serie di fattori
 genetici, familiari, sociali, che hanno influenzato negativamente la crescita della persona: la depressione non è qualcosa che accade all’improvviso ad un certo punto della storia della persona, ma piuttosto qualcosa che **sfocia quando esiste una base generata con il passare del tempo** e alimentatata con lo scorrere delle esperienze.
 
-##La depressione nasce quando le persone perseguono degli scopi irreali
+## La depressione nasce quando le persone perseguono degli scopi irreali
 che non hanno nulla a che fare con i loro bisogni reali come esseri umani: a causa di ciò spesso è possibile associarla ad un crollo del narcisismo.
 
 Nella visione dell’Analisi Bioenergetica un narcisista è colui che si è costruito una maschera fino ad identificarsi con essa.
