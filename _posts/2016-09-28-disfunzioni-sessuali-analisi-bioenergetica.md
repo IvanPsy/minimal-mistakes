@@ -83,3 +83,5 @@ Ri-trovare la gioia, il piacere di vivere, è **un passo fondamentale verso la g
 Questo può avvenire mediante un tipo di psicoterapia che permetta di esplorarsi, di **sondare il proprio essere** in tutta la sua totalità costituita dalle idee della mente e dalle sensazioni del corpo, e di sciogliere quei nodi (sia fisici che psichici) che impediscono alle sensazioni e alle emozioni di fluire dentro di noi.
 
 Solo in questo modo saremo in grado di ri-attivare il nostro scorrere in **una Vita piena e vibrante.**
+
+<a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="/images/lettere-da-uno-psicologo-cta.png" alt="Iscriviti a Lettere da uno Psicologo"></a>

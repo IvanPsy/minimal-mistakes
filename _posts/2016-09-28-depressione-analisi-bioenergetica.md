@@ -66,3 +66,4 @@ Solo a questo punto la persona può **tornare in contatto con i propri bisogni p
 
 E il bisogno fondamentale per queste persone è semplicemente quello di **essere amate per quelle che sono.**
 
+<a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="/images/lettere-da-uno-psicologo-cta.png" alt="Iscriviti a Lettere da uno Psicologo"></a>

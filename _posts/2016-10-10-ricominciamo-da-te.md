@@ -52,4 +52,5 @@ Clicca sull'immagine qua sotto e unisciti alla Community.
 Anche se non sarò in grado di rispondere a tutti singolarmente, leggerò tutte le vostre comunicazioni e prenderò nota degli argomenti e delle tematiche da voi proposti per scriverti le mie prossime Lettere.
 
 Dedicato al tuo Benessere Psicofisico,
+
 **Dr Ivan Ferrero**
