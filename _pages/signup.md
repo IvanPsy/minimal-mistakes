@@ -15,7 +15,6 @@ Lascia subito la tua mail QUI sotto ed inizia a ricevere le mie Lettere!
 <div id="mc_embed_signup">
 <form action="//ivanferrero.us4.list-manage.com/subscribe/post?u=e42ee8d1ec99a47eae434c316&amp;id=1617796d04" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<div class="indicates-required"><span class="asterisk">*</span> inserisci questi dati</div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE1">Inserisci QUI il tuo nome  <span class="asterisk">*</span>
 </label>
