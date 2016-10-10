@@ -38,7 +38,6 @@ Lascia subito la tua mail QUI ed inizia a ricevere le mie Lettere!
     </div>
 </form>
 </div>
-4
 <!--End mc_embed_signup-->
 
 <img src="//lh3.googleusercontent.com/wPbJ_uOzWrJKnvKE7iWInLOL2j5yfSbvBfq8eUSUW7D_e6Rq33MkEN1p9fy_PQX2AEqHDT3oUhaYis6wkGjLZ6E=s0" alt="lock" style="width: 15px; float: left; margin:0;margin-top:4px; border-radius: 0">&nbsp;
