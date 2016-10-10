@@ -47,7 +47,7 @@ Cominciamo subito e dimmi: **qual è il tuo Perturbatore in questo momento della
 Ricevi le prossime Lettere direttamente nella tua casella di posta elettronica.
 
 Clicca sull'immagine qua sotto e unisciti alla Community.
-<a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="https://github.com/IvanPsy/ivanferreroit/blob/gh-pages/images/lettere-da-uno-psicologo-cta.png" alt="Iscriviti a Lettere da uno Psicologo"></a>
+<div><a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="/images/lettere-da-uno-psicologo-cta.png" alt="Iscriviti a Lettere da uno Psicologo"></a></div>
 
 Anche se non sarò in grado di rispondere a tutti singolarmente, leggerò tutte le vostre comunicazioni e prenderò nota degli argomenti e delle tematiche da voi proposti per scriverti le mie prossime Lettere.
 
