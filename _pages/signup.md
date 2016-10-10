@@ -9,7 +9,7 @@ Le mie riflessioni e le mie scoperte direttamente nella tua casella di posta ele
 
 Parliamo di Noi e della nostra Vita, con consigli pratici per migliorare lungo il nostro Percorso.
 
-Lascia subito la tua mail QUI ed inizia a ricevere le mie Lettere!
+Lascia subito la tua mail QUI sotto ed inizia a ricevere le mie Lettere!
 
 {: .center}
 
