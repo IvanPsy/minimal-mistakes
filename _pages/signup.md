@@ -1,5 +1,5 @@
 ---
-title: Lettere da uno Psicologo - Iscrizione
+title: Lettere da uno Psicologo - Unisciti alla Community
 permalink: lettere-da-uno-psicologo-signup
 ---
 
