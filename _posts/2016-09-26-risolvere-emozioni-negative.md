@@ -97,4 +97,4 @@ Soprattutto, non è facile ammettere che possiamo anche tendere alla felicità.
 
 Non è facile, ma **è possibile…**
 
-<a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="http://ivanferrero.it/images/lettere-da-uno-psicologo-cta.png/" alt="Iscriviti a Lettere da uno Psicologo"></a>
+<a href="http://ivanferrero.it/lettere-da-uno-psicologo-signup"><img src="/images/lettere-da-uno-psicologo-cta.png/" alt="Iscriviti a Lettere da uno Psicologo"></a>
