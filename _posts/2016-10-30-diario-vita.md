@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Il Diario della tua Vita
 description: "Il diario è un potente strumento per la nostra Crescita Personale. Perchè?"
 author: Dr Ivan Ferrero
 permalink: /diario-vita/
